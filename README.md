@@ -14,7 +14,7 @@ Médias sociaux
 
 ### Logo
 
-Le [logo](assets/logo) du est une réalisation de [Jules Coupal-Lafleur](https://ca.linkedin.com/in/jules-coupal-lafleur-2a200415b).
+Le [logo](assets/logo) est une réalisation de [Jules Coupal-Lafleur](https://ca.linkedin.com/in/jules-coupal-lafleur-2a200415b).
 
 ### Description
 
