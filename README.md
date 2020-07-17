@@ -19,4 +19,4 @@ Le [logo](assets/logo) est une réalisation de [Jules Coupal-Lafleur](https://ca
 
 ### Description
 
-...
+Compétition informatique universitaire québécoise en ligne dans le format d’un CTF, proposant une multitude de défis de programmation et de sécurité.
