@@ -10,7 +10,8 @@
 - [GitHub](https://github.com/UnitedCTF/)
 
 Médias sociaux
-  - ...
+  - [Twitter](https://twitter.com/UnitedCTF)
+  - [Facebook](https://www.facebook.com/UnitedCTF)
 
 ### Logo
 
