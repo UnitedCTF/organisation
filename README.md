@@ -8,6 +8,7 @@
 - [Slack](https://united-ctf.slack.com/)
 - [Slack (invitation)](https://join.slack.com/t/united-ctf/shared_invite/enQtNzMxNTU2NTk3NDA4LTQxMmRjYjkyZGRhMWI5MzU0NjJjNDgzODg5Zjg2ZDYyOWYwODQ3ZjRhOWEwNzA5MGM3OWE2MTc4ZWQ0OTE5MmQ)
 - [GitHub](https://github.com/UnitedCTF/)
+- [Discord](https://discord.gg/3jwhzDVSN3)
 
 Médias sociaux
   - [Twitter](https://twitter.com/UnitedCTF)
